@@ -1,4 +1,4 @@
-<h1>Pete Thinful Portfio</h1> 
+<h1>Pete's Thinkful Portfolio</h1> 
 <p>Built my first webpage.</p>
 
 <h2>About Me</h2>
