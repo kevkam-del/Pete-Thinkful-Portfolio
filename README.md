@@ -10,14 +10,3 @@
 <ul>
 <li>Chegg Skills</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-# Pete-Thinkful-Portfolio
