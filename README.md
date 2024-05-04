@@ -1,5 +1,5 @@
 <h1>Pete's Thinkful Portfolio</h1> 
-<p>Built my first webpage.</p>
+<p>Built my first web page.</p>
 
 <h2>About Me</h2>
 
